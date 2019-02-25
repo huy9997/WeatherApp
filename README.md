@@ -1,10 +1,11 @@
 # WeatherApplication-
-Type in a city to find out the weather! 
 
-How to run: 
+WeatherApplication-
 
+Type in a city to find out the weather!
 
-1. install dependencies "npm install"
-2. get a google api key input in app.js. 
-3. run in terminal node app.js  -a  "type in a location here! "
+How to run:
+  install dependencies "npm install"
+  get a google api key input in app.js.
+  run in terminal node app.js -a "type in a location here! "
 
